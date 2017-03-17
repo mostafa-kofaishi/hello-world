@@ -1,2 +1,6 @@
 # hello-world
 programm writes a "hallo world " pharse
+
+hallo leute 
+leute is a german word i think everybody understand what dose it mean ...
+so i live in austria ...
